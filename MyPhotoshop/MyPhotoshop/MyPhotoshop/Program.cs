@@ -8,6 +8,6 @@
 using MyPhotoshop;
 using MyPhotoshop.Effects;
 
-IPhotoEffect[] availableEffects = new IPhotoEffect[] { new BlackAndWhiteEffect(), new DarkenEffect(), new LightenImage()};
+IPhotoEffect[] availableEffects = new IPhotoEffect[] { new BlackAndWhiteEffect(), new DarkenEffect(), new LightenImage(), new RotateEffect()};
 string folder = "imgs";
 Controller.Run(folder, availableEffects);
