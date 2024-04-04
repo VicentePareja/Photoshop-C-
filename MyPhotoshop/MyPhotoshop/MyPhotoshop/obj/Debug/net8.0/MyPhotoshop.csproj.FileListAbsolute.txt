@@ -1,0 +1,34 @@
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.exe
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.deps.json
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.runtimeconfig.json
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.pdb
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotos.6CD730D2.Up2Date
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\refint\MyPhotoshop.dll
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.pdb
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.genruntimeconfig.cache
+C:\Users\Cristian\Desktop\U\2024-1\IIC2113\Actividades\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\ref\MyPhotoshop.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.csproj.AssemblyReference.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.AssemblyInfoInputs.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.AssemblyInfo.cs
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.csproj.CoreCompileInputs.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\refint\MyPhotoshop.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.pdb
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.exe
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.deps.json
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.runtimeconfig.json
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\MyPhotoshop.pdb
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotos.6CD730D2.Up2Date
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.genruntimeconfig.cache
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\ref\MyPhotoshop.dll
