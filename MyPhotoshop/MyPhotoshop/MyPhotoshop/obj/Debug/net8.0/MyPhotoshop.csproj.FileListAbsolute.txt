@@ -32,3 +32,4 @@ C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Pho
 C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotos.6CD730D2.Up2Date
 C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.genruntimeconfig.cache
 C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\ref\MyPhotoshop.dll
+C:\Users\Vicente Pareja\Desktop\Universidad\2024\Semetre 1\Diseño detallado\Photoshop\Photoshop-C-\MyPhotoshop\MyPhotoshop\MyPhotoshop\obj\Debug\net8.0\MyPhotoshop.sourcelink.json
