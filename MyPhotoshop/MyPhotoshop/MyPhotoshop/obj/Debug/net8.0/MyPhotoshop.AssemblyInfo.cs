@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyPhotoshop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+108c0caae03430de8613810dd0c5133259d9fe46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0221367c95143246a58ac2cf635c1dc9bf1aa8ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyPhotoshop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyPhotoshop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
